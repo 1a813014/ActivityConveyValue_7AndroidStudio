@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityConveyValue</string>
+    <string name="pageA">A 頁面</string>
+    <string name="pageB">B 頁面</string>
+    <string name="pageAtoB">切換 B 頁面</string>
+    <string name="pageBtoA">切換 A 頁面</string>
+    <string name="input">請輸入數值: </string>
+    <string name="pageBInput">B 頁面輸入數值</string>
+    <string name="pageAInput">A 頁面輸入數值</string>
+</resources>
